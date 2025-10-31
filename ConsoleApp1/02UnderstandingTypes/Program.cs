@@ -2,12 +2,17 @@
 
 using System;
 
-namespace ConsoleApp1 
+namespace UnderstandingTypes
 {
     class Program
     {
         static void Main(string[] args)
         {
+            // The format string uses {index, alignment} to align the columns:
+            // {0, -10}: Left-align the type name in a 10-character field.
+            // {1, -15}: Left-align the byte size in a 15-character field.
+            // {2, -37}: Left-align the min value in a 37-character field.
+            // {3, -37}: Left-align the max value in a 37-character field.
             string format = "| {0, -7} | {1, -15} | {2, -37} | {3, -37} |";
 
             // sbyte
@@ -81,11 +86,12 @@ namespace ConsoleApp1
                 double.MaxValue);
             
             // decimal
+            // Note: Decimal Min/Max is displayed in scientific notation as the full number is too long.
             Console.WriteLine(format,
                 nameof(decimal),
                 sizeof(decimal),
                 decimal.MinValue,
                 decimal.MaxValue);
+        }
     }
 }
-
