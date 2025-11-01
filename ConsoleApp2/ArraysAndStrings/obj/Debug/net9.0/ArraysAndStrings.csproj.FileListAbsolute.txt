@@ -1,0 +1,15 @@
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/bin/Debug/net9.0/ArraysAndStrings
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/bin/Debug/net9.0/ArraysAndStrings.deps.json
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/bin/Debug/net9.0/ArraysAndStrings.runtimeconfig.json
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/bin/Debug/net9.0/ArraysAndStrings.dll
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/bin/Debug/net9.0/ArraysAndStrings.pdb
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/ArraysAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/ArraysAndStrings.AssemblyInfoInputs.cache
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/ArraysAndStrings.AssemblyInfo.cs
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/ArraysAndStrings.csproj.CoreCompileInputs.cache
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/ArraysAndStrings.sourcelink.json
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/ArraysAndStrings.dll
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/refint/ArraysAndStrings.dll
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/ArraysAndStrings.pdb
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/ArraysAndStrings.genruntimeconfig.cache
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp2/ArraysAndStrings/obj/Debug/net9.0/ref/ArraysAndStrings.dll

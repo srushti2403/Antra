@@ -1,0 +1,7 @@
+1. String is used for immutable, small, or rarely-changed text. StringBuilder is used frequent or heavy string modifications to avoid memory overhead from repeated strings.
+2. System.Array
+3. Array.Sort(arrayName);
+4. Length
+5. Yes, if array type is object[]
+6. Clone() creates new array with same elements, CopyTo() copies elements into existing array starting at specified index
+
