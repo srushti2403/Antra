@@ -1,0 +1,51 @@
+1. access modifiers: public, private, protected, internal, protected internal, private protected
+control visibility from everywhere, only within the type, within the type and subclasses, within the same assembly, either same assembly or subclasses elsewhere, and only within the same assembly and subclasses respectively
+
+2. static members belong to the type itself, const values are compile-time constants fixed at declaration, and readonly fields can be assigned only at declaration or in a constructor and then cannot change thereafter.
+
+3. A constructor initializes a new object and sets its initial state when the type is instantiated.
+
+4. The partial keyword allows a class, struct, or interface definition to be split across multiple files, supporting separation of generated and developer-written code
+
+5. A tuple is a lightweight data structure that groups multiple values into a single compound value without creating a custom type.
+
+6. The record keyword defines a reference type optimized for immutable data and value-based equality.
+
+7. Overloading means providing multiple methods with the same name but different signatures, and overriding means redefining a virtual or abstract method in a derived class.
+
+8. A field stores data directly in a class or struct, while a property provides controlled access to a field through getters and setters.
+
+9. An optional parameter is created by assigning a default value in the method signature.
+
+10. An interface defines a contract of members without implementation, whereas an abstract class can provide both abstract members and shared implementation.
+
+11. Interface members are implicitly public and cannot declare other accessibility levels.
+
+12. An interface defines a contract of methods, properties, etc., without implementation, while an abstract class can include both abstract members and concrete implementations and may also hold state.
+
+13. Interface members are implicitly public.
+
+14. True.
+
+15. True.
+
+16, False
+
+17. False
+
+18. True
+
+19. True.
+
+20. True.
+
+21. False
+
+22. False.
+
+23. True.
+
+24. False.
+
+25. True
+
