@@ -1,0 +1,15 @@
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/bin/Debug/net9.0/UnderstandingTypes
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/bin/Debug/net9.0/UnderstandingTypes.deps.json
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/bin/Debug/net9.0/UnderstandingTypes.runtimeconfig.json
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/bin/Debug/net9.0/UnderstandingTypes.dll
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/bin/Debug/net9.0/UnderstandingTypes.pdb
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/UnderstandingTypes.AssemblyInfo.cs
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/UnderstandingTypes.sourcelink.json
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/UnderstandingTypes.dll
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/refint/UnderstandingTypes.dll
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/UnderstandingTypes.pdb
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/UnderstandingTypes.genruntimeconfig.cache
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp1/UnderstandingTypes/obj/Debug/net9.0/ref/UnderstandingTypes.dll
