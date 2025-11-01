@@ -1,0 +1,5 @@
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.AssemblyInfoInputs.cache
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.AssemblyInfo.cs
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/Users/srushtipatel/Documents/ANTRA/C#/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.sourcelink.json
