@@ -7,46 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6a29269-29df-4a32-981e-8afa78eebf07" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/02UnderstandingTypes.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/02UnderstandingTypes.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/02UnderstandingTypes.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/02UnderstandingTypes.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02UnderstandingTypes/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/C# Day 1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" beforeDir="false" />
-    </list>
+    <list default="true" id="b6a29269-29df-4a32-981e-8afa78eebf07" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +45,7 @@
     ".NET Static Method.UnderstandingTypes.RandomNumber.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -222,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761951057998</updated>
-      <workItem from="1761951059022" duration="7805000" />
+      <workItem from="1761951059022" duration="8131000" />
     </task>
     <servers />
   </component>
