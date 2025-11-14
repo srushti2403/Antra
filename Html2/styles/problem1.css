@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #233750;
+    padding: 10px 25px;
+}
+
+.logo img {
+    height: 65px;
+}
+
+.navbar .menu {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.menu li {
+    position: relative;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 0;
+    font-size: 14px;
+}
+
+/* Dropdown styling */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background: #2f4b6b;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    min-width: 160px;
+}
+
+.dropdown-content li a {
+    display: block;
+    padding: 10px;
+}
+
+.dropdown-content li a:hover {
+    background: #3e5c80;
+}
+
+/* Hover trigger */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.search-container input {
+    padding: 8px;
+    width: 200px;
+    border-radius: 4px 0 0 4px;
+    border: none;
+}
+
+.search-container button {
+    padding: 8px 12px;
+    border: none;
+    background: white;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+}
+
+/* ----- FOOTER LAYOUT ----- */
+
+.main-footer {
+    background: #363d40;
+    padding: 40px 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    color: #fff;
+}
+
+.footer-section {
+    width: 22%;
+    min-width: 200px;
+}
+
+.footer-section h3 {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin: 8px 0;
+}
+
+.footer-section ul li a {
+    color: #d0d0d0;
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+}
+
+.map-img {
+    width: 100%;
+    max-width: 220px;
+    margin-top: 10px;
+}
+
+
+/* FACEBOOK BOX */
+.facebook-box {
+    background: #363d40;
+    padding: 20px 30px;
+}
+
+/* Bottom black strip */
+.footer-bottom {
+    background: #111;
+    color: #fff;
+    padding: 12px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-icons a {
+    margin-left: 15px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
